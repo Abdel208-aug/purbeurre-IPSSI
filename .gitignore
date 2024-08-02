@@ -1,0 +1,6 @@
+env/
+.env
+static/node_modules/
+__pycache__
+chromedriver.exe
+.coverage
